@@ -1,5 +1,24 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+# Who am I
+Inês 
 
-Carla is a passionate, honest, web developer musician and financier.
+* Where are you from?
+Palmela, Setúbal
+* What do you do?
+Study
+* Do you have previous experience with technology/data?
+No
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+# Why am I here
+
+* What has brought you to Ironhack?
+I want to learn how to use data science for Strategic Intelligence
+* What knowledge/skills do you expect to learn in this bootcamp?
+Big data and data mining
+
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in?
+Research, Stretegic consulting, International Relations
+* What will your future role look like?
+
+* What is your career goal?
