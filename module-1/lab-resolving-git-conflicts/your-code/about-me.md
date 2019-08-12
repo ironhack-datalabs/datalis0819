@@ -1,5 +1,18 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Carla is a passionate, honest, web developer musician and financier and TA.
+# Who am I
 
-Learning the new tech world lingo and pursuing all passions while trying to watching all the top 250 movies she can find.
+* I'm from Covilhã
+* I'm currently on data squad
+* And I have no experience with technology/data
+
+# Why am I here
+
+* I came for a career change
+* And I expect to learn all about how to became a data analyst
+
+# What will I do after the bootcamp?
+
+* I'm not sure yet
+* Somethink like a digital nomad
+* Work smarter and have free time
