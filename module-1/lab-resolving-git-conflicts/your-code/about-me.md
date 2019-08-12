@@ -1,4 +1,5 @@
 # Who am I
+
 Hello I'm Miguel
 I'm from Lisboa, with a Mastaers in Econom and my tech exp is more akin to torubleshooting peoples probs wiht google
 
