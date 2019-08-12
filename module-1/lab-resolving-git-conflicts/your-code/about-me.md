@@ -1,5 +1,6 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Carla is a passionate, honest, web developer musician and financier.
+I´m Linda from Berlin.
+I´m working at Clark, your digital insurance broker.
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+I really want to get a data analyst.
