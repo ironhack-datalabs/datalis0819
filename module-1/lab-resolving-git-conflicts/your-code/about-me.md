@@ -1,7 +1,7 @@
 # Who am I
 Inês 
 
-* Where are you from?
+* here are you from?
 Palmela, Setúbal
 * What do you do?
 Study
