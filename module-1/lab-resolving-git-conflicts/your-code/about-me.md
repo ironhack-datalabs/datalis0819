@@ -1,7 +1,7 @@
 # Who am I
 
 Hello I'm Miguel
-I'm from Lisboa, with a Masters in Economics and my tech exp is more akin to torubleshooting peoples problemss with google
+I'm from Lisboa, with a Masters in Economics and my tech exp is more akin to torubleshooting peoples problems with google
 
 # Why am I here
 
