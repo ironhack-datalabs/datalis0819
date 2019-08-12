@@ -1,5 +1,11 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+# Who am I
+Hello I'm Vian
+I'm from Lisboa, with a Mastaers in Econom and my tech exp is more akin to torubleshooting peoples probs wiht google
 
-Carlos is a passionate, honest, web developer musician and financier.
+# Why am I here
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+Looking for new marktable skills to be able to do data analisys
+
+# What will I do after the bootcamp?
+
+To use the data in good use to help people
