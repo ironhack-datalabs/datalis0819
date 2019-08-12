@@ -16,3 +16,7 @@ NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 * I'm not sure yet
 * Somethink like a digital nomad
 * Work smarter and have free time
+
+Learning the new tech world lingo and pursuing all passions while trying to watching all the top 250 movies she can find.
+
+Adding something
